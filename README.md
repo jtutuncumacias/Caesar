@@ -5,10 +5,10 @@ A program I made with Java that converts arabic numerals to roman numerals and v
 
 Screenshots:
 
-<img src=http://imgur.com/1OtWq4z>
+<img src=http://i.imgur.com/1OtWq4z.png>
 
 
-<img src=http://imgur.com/GAZ39PB>
+<img src=http://i.imgur.com/GAZ39PB.png>
 
 
-<img src=http://imgur.com/FcrQdnI>
+<img src=http://i.imgur.com/FcrQdnI.png>
