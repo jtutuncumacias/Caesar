@@ -35,7 +35,7 @@ public class Caesar {
 			start = JOptionPane
 					.showOptionDialog(
 							frame,
-							"Hello. I am Caesar. \nI can take any one of your Arabic numerals and convert it to Roman numberals. And, if you wish, vice versa. \nWhich numeral "
+							"Hello. I am Caesar. \nI can take any one of your Arabic numerals and convert it to Roman numerals. And, if you wish, vice versa. \nWhich numeral "
 									+ "do you wish to convert to?",
 							"Caesar Converter",
 							JOptionPane.YES_NO_CANCEL_OPTION,
