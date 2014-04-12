@@ -1,7 +1,7 @@
 Caesar
 ======
 
-A program I made with Java that converts arabic numerals to roman numerals and vice versa.
+A program I made with Java that converts Arabic numerals to Roman numerals and vice versa.
 
 Screenshots:
 
